@@ -12,7 +12,7 @@ import (
 	"github.com/mailhog/MailHog-Server/api"
 	cfgapi "github.com/mailhog/MailHog-Server/config"
 	"github.com/mailhog/MailHog-Server/smtp"
-	"github.com/mailhog/MailHog-UI/assets"
+	"github.com/targetpharma/MailHog-UI/assets"
 	cfgui "github.com/mailhog/MailHog-UI/config"
 	"github.com/mailhog/MailHog-UI/web"
 	cfgcom "github.com/mailhog/MailHog/config"
